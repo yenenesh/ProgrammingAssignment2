@@ -1,7 +1,6 @@
-
+ 
 ## Yene
-
-## Function- 0ne :makeCacheMatrix creates a special matrix object, and then cacheSolve 
+## Function- 0ne : makeCacheMatrix creates a special matrix object, and then cacheSolve 
 
 ## calculates the inverse of the matrix.
 
@@ -32,10 +31,7 @@ makeCacheMatrix <- function(x = matrix()) {
        setinverse = setinverse,
        
        getinverse = getinverse)
-  
-}
-
-
+  }
 ##Function-two
 
 ## The function cacheSolve returns the inverse of a matrix A created with
